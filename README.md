@@ -2,15 +2,15 @@
 
 ### 🖼️ 1. Windows
 
-![Main](assets/screenshot1.jpg)
+![Main](assets/Screenshot1.jpg)
 
 ### 🖼️ 2. Clipboard Copied
 
-![Clipboard](assets/screenshot2.jpg)
+![Clipboard](assets/Screenshot2.jpg)
 
 ### 🖼️ 3. Linux
 
-![Clipboard](assets/screenshot3.jpg)
+![Clipboard](assets/Screenshot3.jpg)
 
 # Clipboard Cleaner
 
