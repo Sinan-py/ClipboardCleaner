@@ -1,0 +1,32 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Compressed distributions
+*.tar.gz
+*.zip
+
+# Editor & OS files
+.vscode/
+Thumbs.db  # Windows
+
+# Ignore icon files (optional — remove this if you want to include .ico)
+*.ico
